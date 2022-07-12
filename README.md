@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with ... Internships in Bioinformatics and Mainstream Data science
 - 📫 How to reach me: 
    [email](samuelmayowao060@gmail.com)
+   
    [LinkdIn](https://www.linkedin.com/in/ogungbemi-oluwamayowa-a23720191/)
 - ⚡ Fun fact: 
   > I love to learn
