@@ -1,7 +1,7 @@
 ### Hi welcome ! Here's what I am up to 👋
 
 
-- 🔭 I’m currently working on Java projects
+- 🔭 I’m currently working on Java and React.js projects
 - Java || Springboot framework || SQL || ReactJs
 - 🌱 Python and R for data science, Bash scripting for Genomics and biocomputing
 - 📫 Reach me via 
