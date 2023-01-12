@@ -8,7 +8,7 @@
    
    [Email](samuelmayowao060@gmail.com)
    
-   [LinkdIn](https://www.linkedin.com/in/ogungbemi-oluwamayowa-a23720191/)
+   [LinkdIn](https://www.linkedin.com/in/oluwamayowa-samuel-ogungbemi-a23720191/)
    
 - ⚡ Fun fact: 
   > I am in an endless loop of learning
