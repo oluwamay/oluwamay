@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Java projects
-- ReactJs
+- Java || Springboot framework || SQL || ReactJs
 - 🌱 Python and R for data science, Bash scripting for Genomics and biocomputing
 - 📫 Reach me via 
    
